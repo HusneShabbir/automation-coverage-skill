@@ -4,6 +4,10 @@ Cursor skill for the [automation-coverage MCP](https://github.com/HusneShabbir/a
 
 ## Install in Cursor
 
+```bash
+npx skills add HusneShabbir/automation-coverage-skill -a cursor -g -y
+```
+
 From a checkout of this repo:
 
 ```bash
